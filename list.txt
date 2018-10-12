@@ -1,7 +1,7 @@
 
 bananas
 bread
-apples
+red apples
 
 onions
 mushrooms
