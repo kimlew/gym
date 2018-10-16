@@ -1,6 +1,8 @@
-bananas
-bread
-apples
+wheat bread
+6 bananas
+red apples
+
+2% milk
 
 onions
 mushrooms
@@ -12,7 +14,7 @@ pie shells
 Sun Chips
 
 potatoes
-butteer
+butter
 coffee
 tomatoes
 pears
