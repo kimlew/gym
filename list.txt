@@ -5,6 +5,7 @@ apples
 onions
 mushrooms
 spinach
+12 eggs
 
 tomatoes
 pie shells
@@ -12,3 +13,6 @@ Sun Chips
 
 potatoes
 butteer
+coffee
+tomatoes
+pears
